@@ -3,12 +3,14 @@ Certainly! Here's a revised version tailored for a README.md file on GitHub:
 ---
 
 # Line Follower using FRDM-KL25Z Board
-
-
-![image](https://github.com/Rahul-Cheruku/Line-Follower-using-FRDM-KL25Z-Board/assets/77064752/a3e7edb6-4a09-4d43-a1db-550d5ea50dd3)
-
-
 Welcome to the Line Follower project implemented on the FRDM-KL25Z development board! This repository contains the source code, documentation, and resources to build an autonomous line-following robot using infrared sensors.
+
+
+- ![image](https://github.com/Rahul-Cheruku/Line-Follower-using-FRDM-KL25Z-Board/assets/77064752/a3e7edb6-4a09-4d43-a1db-550d5ea50dd3)
+- ![image](https://github.com/Rahul-Cheruku/Line-Follower-using-FRDM-KL25Z-Board/assets/77064752/12e6f215-debd-419d-8aa9-b5cfe5dbb7a3)
+
+
+
 
 ## Key Features
 
