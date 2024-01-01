@@ -4,7 +4,7 @@ This repository contains the source code and documentation for a line follower r
 
 Key Features:
 
-->Utilizes the powerful FRDM-KL25Z microcontroller for precise control.
+->Utilizes the powerful FRDM-KL25Z microcontroller for precise control. \n
 ->PID controller implementation for accurate and smooth line following.
 ->Integration of infrared sensors for detecting the line and making real-time decisions.
 ->Motor control for precise movement and adjustments based on sensor feedback.
