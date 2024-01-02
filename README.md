@@ -5,6 +5,8 @@ Certainly! Here's a revised version tailored for a README.md file on GitHub:
 # Line Follower using FRDM-KL25Z Board
 Welcome to the Line Follower project implemented on the FRDM-KL25Z development board! This repository contains the source code, documentation, and resources to build an autonomous line-following robot using infrared sensors.
 
+## NOTE: THIS CODE IS MISSING MOTOR SPEED CONTROL (WHICH IS VERY IMPORTANT AS ROBO CAR WILL NOT TAKE SHARP TURNS AT HIGH SPEED) THAT IS DONE USING PWM I GUESS, SO IF ANYONE CAN HELP ME I WILL ADD THAT TO CODE AND MAKE YOU A CONTRIBUTOR + I WILL GIVE YOU CREDIT. 
+
 
  ![image](https://github.com/Rahul-Cheruku/Line-Follower-using-FRDM-KL25Z-Board/assets/77064752/a3e7edb6-4a09-4d43-a1db-550d5ea50dd3)
  ![image](https://github.com/Rahul-Cheruku/Line-Follower-using-FRDM-KL25Z-Board/assets/77064752/12e6f215-debd-419d-8aa9-b5cfe5dbb7a3)
