@@ -131,14 +131,35 @@ Contributions are highly encouraged! If you have ideas for improvements, new fea
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the none.
 
-## Disclaimer
-
-This project is provided as-is without any warranty. Refer to the license for more details.
 
 Happy Line Following!
 
 ---
 
 Feel free to customize this README.md template further based on your project's specifics and structure.
+
+---
+
+## SEO Keywords:
+1. MKL25Z
+2. Freescale
+3. Kinetis
+4. ARM Cortex-M0+
+5. Embedded Systems
+6. MCU (Microcontroller Unit)
+7. IoT (Internet of Things)
+8. Development Board
+9. Peripheral Integration
+10. Low Power Microcontroller
+11. NXP Freedom Platform
+12. CodeWarrior
+13. RTOS (Real-Time Operating System)
+14. Peripheral Drivers
+15. Bare-Metal Programming
+16. Clock Configuration
+17. Interrupt Handling
+18. Open Source Firmware
+19. Sensor Integration
+20. Industrial Automation
